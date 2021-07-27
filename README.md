@@ -1,5 +1,5 @@
 # discordctl
-manipulate discord server with easy-command
+This is discord bot enables you manipulate discord server with easy-command
 
 Did you encounter vc regional trouble in discord?
 then...
